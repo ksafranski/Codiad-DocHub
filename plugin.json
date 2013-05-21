@@ -1,0 +1,13 @@
+[{
+    "author": "Fluidbyte",
+    "version": "1.1.0",
+    "name": "DocHub",
+    "url": "https://github.com/Fluidbyte/Codiad-DocHub.git",
+    "rightbar": [
+        {
+            "action": "codiad.DocHub.open();",
+            "icon": "icon-book",
+            "title": "DocHub"
+        }
+    ]    
+}]
