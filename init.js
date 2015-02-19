@@ -1,5 +1,5 @@
 /**
- *  DocHub Codiad Plugin
+ *  DevDocs Codiad Plugin (DocHub Plugin Fork)
  *  Copyright (c) 2013 - Kent Safranski (Fluidbyte)
  */
 
@@ -11,7 +11,7 @@
         path = scripts[scripts.length-1].src.split('?')[0],
         curpath = path.split('/').slice(0, -1).join('/')+'/';
 
-    codiad.DocHub = {
+    codiad.DevDocs = {
         
         // Allows relative `this.path` linkage
         path: curpath,
