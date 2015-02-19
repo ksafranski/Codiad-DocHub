@@ -1,13 +1,13 @@
 [{
     "author": "Fluidbyte",
     "version": "1.1.0",
-    "name": "DocHub",
-    "url": "https://github.com/Fluidbyte/Codiad-DocHub.git",
+    "name": "DevDocs",
+    "url": "https://github.com/megadr01d/Codiad-DevDocs.git",
     "rightbar": [
         {
-            "action": "codiad.DocHub.open();",
+            "action": "codiad.DevDocs.open();",
             "icon": "icon-book",
-            "title": "DocHub"
+            "title": "DevDocs"
         }
     ]    
 }]
