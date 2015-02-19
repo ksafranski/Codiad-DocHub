@@ -2,7 +2,7 @@
     "author": "Fluidbyte",
     "version": "1.1.0",
     "name": "DevDocs",
-    "url": "https://github.com/megadr01d/Codiad-DevDocs.git",
+    "url": "https://github.com/Fluidbyte/Codiad-DocHub.git",
     "rightbar": [
         {
             "action": "codiad.DevDocs.open();",
