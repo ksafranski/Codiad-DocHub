@@ -1,5 +1,5 @@
 /**
- *  DevDocs Codiad Plugin (DocHub Plugin Fork)
+ *  DevDocs Codiad Plugin
  *  Copyright (c) 2013 - Kent Safranski (Fluidbyte)
  */
 
