@@ -1,6 +1,6 @@
 # Codiad DevDocs Plugin
 
-This is a simple plugin which adds a dialog with frame containing the [DevDocs.io](http://devdocs.io) site and all it's resources.
+This is a simple plugin which adds a dialog with frame containing the [DevDocs.io](http://devdocs.io) site and all its resources.
 
 # Installation
 
